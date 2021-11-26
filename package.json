@@ -1,0 +1,44 @@
+{
+  "name": "cfg-parser",
+  "version": "0.0.0",
+  "description": "Control flow analysis for JavaScript",
+  "main": "cfg.js",
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+  "dependencies": {
+    "uniq": "~0.0.2"
+  },
+  "devDependencies": {
+    "tape": "~2.3.2",
+    "tap": "~0.4.6",
+    "esprima": "~1.0.4",
+    "control-flow-to-js": "~0.0.0",
+    "glob": "~3.2.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/control-flow.git"
+  },
+  "keywords": [
+    "control",
+    "flow",
+    "graph",
+    "3ac",
+    "three",
+    "address",
+    "code",
+    "intepreter",
+    "static",
+    "analysis",
+    "programming",
+    "languages",
+    "javascript",
+    "esprima",
+    "parse",
+    "tools"
+  ],
+  "author": "blacknut",
+  "license": "MIT",
+}
